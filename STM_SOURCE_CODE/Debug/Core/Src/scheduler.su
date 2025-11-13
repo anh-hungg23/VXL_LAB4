@@ -1,0 +1,7 @@
+scheduler.c:12:6:SCH_Delete_All_Task	16	static
+scheduler.c:23:6:SCH_Init	8	static
+scheduler.c:27:8:SCH_Create_Task	32	static
+scheduler.c:39:6:SCH_Add_Task	40	static
+scheduler.c:77:6:SCH_Update	4	static
+scheduler.c:89:6:SCH_Dispatch	16	static
+scheduler.c:109:6:SCH_Delete_Task	24	static

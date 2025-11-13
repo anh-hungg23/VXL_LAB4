@@ -1,0 +1,9 @@
+taskList.c:10:6:task_blinkToggle	4	static
+taskList.c:15:6:task_fsmAutoRun	8	static
+taskList.c:21:6:task_fsmManualRun	8	static
+taskList.c:27:6:task_readButton	8	static
+taskList.c:32:6:task_checkMode	8	static
+taskList.c:35:6:task_display7SEG	8	static
+taskList.c:40:6:task_updateCountdown	8	static
+taskList.c:44:6:task_toggleTest	8	static
+taskList.c:48:6:task_checkNoReact	4	static
